@@ -1,1 +1,1 @@
-# FrontGallery
+# loginType

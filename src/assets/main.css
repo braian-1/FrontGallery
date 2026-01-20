@@ -1,0 +1,22 @@
+/* RESET TOTAL */
+* {
+  box-sizing: border-box;
+}
+
+/* HTML, BODY Y APP A PANTALLA COMPLETA */
+html,
+body,
+#app {
+  width: 100vw;
+  height: 100vh;
+  margin: 0;
+  padding: 0;
+  max-width: none;
+}
+
+/* QUITAR CUALQUIER CENTRADO GLOBAL */
+body {
+  display: block;
+  background: none;
+  overflow-x: hidden;
+}

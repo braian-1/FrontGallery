@@ -128,7 +128,7 @@ onMounted(async () => {
 
 .gallery-header h2 {
   font-size: 1.8rem;
-  color: #2d3748;
+  color: #ffffffff;
   margin: 0;
 }
 
@@ -163,14 +163,15 @@ onMounted(async () => {
   border: 1px dashed #a0aec0;
   padding: 0.6rem;
   border-radius: 8px;
-  background: #f7fafc;
+  background: white;
+  color: #8fa2f2;
 }
 
 .upload-box button {
   padding: 0.6rem 1.2rem;
   border-radius: 10px;
   border: none;
-  background: linear-gradient(180deg, #667eea, #5a67d8);
+  background: green;
   color: white;
   font-weight: 600;
   cursor: pointer;

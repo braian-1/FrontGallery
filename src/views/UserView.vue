@@ -8,3 +8,9 @@
 <script setup lang="ts">
 import ImageGallery from "../components/icons/ImageGallery.vue";
 </script>
+
+<style scoped>
+h1{
+  text-align:center;
+}
+</style>

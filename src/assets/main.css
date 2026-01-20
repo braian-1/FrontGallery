@@ -12,6 +12,8 @@ body,
   margin: 0;
   padding: 0;
   max-width: none;
+  color: white;
+  background: linear-gradient(180deg, #8fa2f2 0%, #e4e9ff 100%);
 }
 
 /* QUITAR CUALQUIER CENTRADO GLOBAL */
